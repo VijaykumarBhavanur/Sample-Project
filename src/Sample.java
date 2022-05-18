@@ -9,8 +9,10 @@ public class Sample {
 	public static void main(String[] args) {
 		
 		/* 
-		 *  Get two numbers  
-		 *  
+
+		 *  Get Three numbers  
+		 * 
+
 		 *    Press 1 for add 2 for sub 3 for mul
 		 *    
 		 *    4 for divsion
