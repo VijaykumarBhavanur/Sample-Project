@@ -10,7 +10,7 @@ public class Sample {
 		
 		/* 
 		 *  Get two numbers  
-		 * 
+		 *  
 		 *    Press 1 for add 2 for sub 3 for mul
 		 *    
 		 *    4 for divsion
